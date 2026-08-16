@@ -19,7 +19,7 @@
 
 * 🤖 **[Deepfake Detection System](https://github.com/Harshiniperumalla/my-streamlit-app)** ([Live Demo](https://multimodal-deepfake-detector.streamlit.app/)) — End-to-end AI security pipeline using MobileNetV2 & OpenCV to detect manipulated media with 100% test accuracy.
 * 🔑 **[Password Strength Checker](https://github.com/Harshiniperumalla/Password-strength-checker)** — Client-side web application to evaluate password complexity and generate secure credentials.
-* 🏠 **[PG Manager](https://github.com/Harshiniperumalla/Pg-manager)** — Full-stack occupancy and rent management system using Node.js, Express, and SQLite.
+* 🏠 **[PG Manager](https://github.com/Harshiniperumalla/Pg-manager)** ([Live Demo](https://pg-manager-gp0l.onrender.com/)) — Full-stack occupancy and rent management system using Node.js, Express, and SQLite.
 
 ---
 
