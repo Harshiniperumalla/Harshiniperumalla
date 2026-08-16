@@ -17,9 +17,9 @@
 
 ### 🚀 Key Projects
 
-* 🤖 **[Deepfake Detection System](https://github.com/Harshiniperumalla)** — End-to-end AI security pipeline using MobileNetV2 & OpenCV to detect manipulated audio/video media with 100% test accuracy.
-* 🎙️ **[VoiceScholar AI](https://github.com/Harshiniperumalla)** — AI voice-tutoring IVR system powered by FastAPI, Twilio, and Google Gemini API for rural students.
-* 🏠 **[PG Manager](https://github.com/Harshiniperumalla)** — Full-stack occupancy and rent management web app using Node.js, Express, and SQLite.
+* 🤖 **[Deepfake Detection System](https://github.com/Harshiniperumalla/deepfake-detection-system)** — End-to-end AI security pipeline using MobileNetV2 & OpenCV to detect manipulated media with 100% test accuracy.
+* 🔑 **[Password Strength Checker](https://github.com/Harshiniperumalla/Password-strength-checker)** — Client-side web application to evaluate password complexity and generate secure credentials.
+* 🏠 **[PG Manager](https://github.com/Harshiniperumalla/Pg-manager)** — Full-stack occupancy and rent management system using Node.js, Express, and SQLite.
 
 ---
 
